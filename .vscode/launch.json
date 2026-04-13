@@ -6,13 +6,6 @@
   "configurations": [
     {
       "type": "java",
-      "name": "LongestSubstring",
-      "request": "launch",
-      "mainClass": "hashmap_prefix.LongestSubstring",
-      "projectName": "DSA_2bf114ed"
-    },
-    {
-      "type": "java",
       "name": "Current File",
       "request": "launch",
       "mainClass": "${file}"
